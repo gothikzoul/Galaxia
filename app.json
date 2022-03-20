@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/GalaxiaUpdateChannel",
-    "repository": "https://github.com/DarkSkull93/Galaxia",
+    "repository": "https://github.com/gothikzoul/Galaxia",
     "success_url": "https://t.me/Dark_Sheha",
     "env": {
         "API_ID": {
